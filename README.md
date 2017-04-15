@@ -11,6 +11,8 @@ Feel free to add your name to the control and send a pull request! (Give credit 
 
 EDIT (January 20, 2016): Packetfahrer from Germany has pretty much finished this.
 
-<img src="https://github.com/SatbirTanda/SwipeToDeleteContact/blob/master/imgs/ss1.png" width="25%">
-<img src="https://github.com/SatbirTanda/SwipeToDeleteContact/blob/master/imgs/ss2.png" width="25%">
-<img src="https://github.com/SatbirTanda/SwipeToDeleteContact/blob/master/imgs/ss3.png" width="25%">
+<div>
+<img src="https://github.com/SatbirTanda/SwipeToDeleteContact/blob/master/imgs/ss1.png" width="33%">
+<img src="https://github.com/SatbirTanda/SwipeToDeleteContact/blob/master/imgs/ss2.png" width="33%">
+<img src="https://github.com/SatbirTanda/SwipeToDeleteContact/blob/master/imgs/ss3.png" width="33%">
+</div>
